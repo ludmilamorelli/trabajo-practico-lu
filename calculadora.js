@@ -1,0 +1,1 @@
+conts fs = require ('fs')
