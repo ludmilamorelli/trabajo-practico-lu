@@ -1,1 +1,1 @@
-conts fs = require ('fs')
+const fs = require ('fs')
